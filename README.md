@@ -168,6 +168,15 @@ MIT License
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/melan-variya">
+                    <img src="https://avatars.githubusercontent.com/u/144600111?v=4" width="100;" alt="melan-variya"/>
+                    <br />
+                    <sub><b>Milan Variya </b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/Vedantjn">
                     <img src="https://avatars.githubusercontent.com/u/76029713?v=4" width="100;" alt="Vedantjn"/>
                     <br />
